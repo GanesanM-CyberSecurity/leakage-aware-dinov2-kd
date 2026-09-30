@@ -1,0 +1,10 @@
+# never commit the MRI data or the DINOv2 weights (see docs/DATA_ACCESS.md)
+data/
+weights/
+*.pth
+# caches and generated files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+figures/generated/
+.DS_Store

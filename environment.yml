@@ -1,0 +1,7 @@
+name: leakage-aware-dinov2-kd
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt

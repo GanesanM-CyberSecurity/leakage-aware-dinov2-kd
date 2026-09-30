@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or the released splits, please cite the article below."
+title: "leakage-aware-dinov2-kd: code and reproducibility package"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/leakage-aware-dinov2-kd"
+authors:
+  - family-names: M
+    given-names: Ganesan
+    email: mganesanit2012@gmail.com
+    affiliation: "Department of Computer Science and Engineering (Cyber Security), School of Engineering, Dayananda Sagar University, Bengaluru, India"
+  - family-names: M
+    given-names: Lakshmanan
+    affiliation: "Department of Computer Science and Engineering (AI & ML), School of Engineering, Dayananda Sagar University, Bengaluru, India"
+preferred-citation:
+  type: article
+  title: "Leakage-Aware and Subject-Level Evaluation of DINOv2 Knowledge Distillation for CDR-Based Dementia Severity Classification from MRI Slices"
+  authors:
+    - family-names: M
+      given-names: Ganesan
+    - family-names: M
+      given-names: Lakshmanan
+  year: 2026
+  status: submitted
